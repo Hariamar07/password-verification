@@ -3,11 +3,11 @@ Password Verification Project
 This is a simple web application that allows users to verify their passwords based on specific validation rules. It uses HTML, CSS, and JavaScript to create an interactive and user-friendly password verification 
 form.
 
-Features
+🎯Features
 
 Real-time password validation
 
-Checks for:
+✅ Checks for:
 
 Minimum password length
 
@@ -21,7 +21,7 @@ Responsive and clean user interface
 
 Visual feedback for validation success or errors
 
-Technologies Used
+🎯Technologies Used
 
 HTML5 – Structure of the web page
 
