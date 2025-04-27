@@ -30,4 +30,4 @@ CSS3 – Styling and layout
 JavaScript – Logic for password validation and interaction
 
  🚀livelink
- ()
+ ( https://hariamar07.github.io/password-verification/)
